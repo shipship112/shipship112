@@ -1,35 +1,54 @@
-# 👋 Hi, I'm shipship112!
-<!--<div align="center">
-  <a href="https://github.com/shipship112">
-    <img src="https://github-readme-stats.vercel.app/api?username=shipship112&show_icons=true&theme=radical" alt="shipship112's GitHub stats" />
+### 👋 About Me
+A passionate undergraduate student majoring in **Computer Science** at Chongqing University, with a focus on full-stack development and distributed systems.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shipship112&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shipship112?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+</div>
+
+---
+
+### 🛠 Tech Stack
+#### Programming Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
+
+#### Databases & Caching
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
+
+#### Frameworks & Libraries
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue3" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shipship112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shipship112&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipship112&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="97%" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<div align="left">
+  <a href="https://github.com/shipship112" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>-->
+</div>
 
-## 🚀 About Me
-- 🎓 Studying at **Chongqing University**
-- 💻 Full Stack Developer passionate about building robust web applications
-- 🌱 Continuously learning new technologies and improving my craft
-- 📫 How to reach me: chj4119255@qq.com
-- 😄 Pronouns: He/Him
-
-## 💻 Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94
-
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shipship112&theme=react-dark&hide_border=true&area=true&custom_title=Shipship112's%20Contribution%20Graph)
-
-
+<div align="center">
+  <sub>Made with ❤️ by shipship112 | Chongqing University</sub>
+</div>
