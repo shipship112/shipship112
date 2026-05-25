@@ -1,12 +1,6 @@
-<!-- <div align="center">
-  <!-- 顶部高端渐变Banner -->
-  <a href="https://github.com/shipship112">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;I'm+shipship112+%F0%9F%9A%80;Full-Stack+Developer+%7C+Distributed+Systems+Enthusiast" alt="Typing SVG" />
-  </a>
-</div> -->
-
+<!-- 顶部Banner：已替换为指定的小白纸船图片 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="55%" alt="Coding Animation" />
+  <img src="https://picn.huitu.com/pic/20161224/20161224225120578900_0.jpg" width="55%" alt="小白纸船" />
 </div>
 
 <p align="center">
